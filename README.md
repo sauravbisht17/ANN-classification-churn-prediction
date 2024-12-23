@@ -36,7 +36,7 @@ Access the live application here: [Streamlit Cloud Deployment](https://ann-class
 ### Prerequisites  
 
 Make sure you have the following installed:  
-- Python 3.7 or later  
+- Python 3.11 or later  
 - Streamlit  
 - TensorFlow  
 
